@@ -1,0 +1,1 @@
+ffuf -w /opt/useful/seclists/Discovery/Web-Content/big.txt -u http://permx.htb/ -H "Host:FUZZ.permx.htb" -fw 18
