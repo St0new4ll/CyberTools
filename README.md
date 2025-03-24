@@ -1,1 +1,3 @@
-This is my working directory for cyber tools that find repeated use during penetration testing/investigations. 
+A collection of cybersecurity projects, scripts, and examples for educational purposes. The goal of this repository is to demonstrate how certain security tools and techniques work. I have linked my youtube below where I will talk on these projects and how you might protect your organization's assets from attacks I cover. 
+
+Disclaimer: All content in this repository is intended solely for educational use. Any use of these tools, techniques, and/or advice for unauthorized or malicious purposes is strictly prohibited. Always obtain proper authorization before testing or performing any security assessments on any network.
